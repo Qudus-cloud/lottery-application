@@ -1,2 +1,2 @@
-# lottery-application
-A java project 
+java Project
+mutiple java tasks
